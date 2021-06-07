@@ -1,5 +1,5 @@
 # Dream beats of rage[DREAMBOR]
- kos2.0 update vmu saving optimized
+ kos2.0 update vmu saving optimized Custom memory replacements from Dreamhal[moop] Custom SDL_dreamhal {chui} Org Updated with dreamhal {Ian micheal]
 # OpenBOR Engine for Sega Dreamcast
 
 [OpenBOR](http://www.chronocrash.com/) is a royalty free sprite based side scrolling gaming engine, based on the source code of the [Beats of Rage](https://en.wikipedia.org/wiki/Beats_of_Rage) game published by [Senile Team](http://www.senileteam.com) back in 2004. **Beats of Rage** is an open-source 2D customisable video game engine inspired by Sega's classic [Streets of Rage](https://en.wikipedia.org/wiki/Streets_of_Rage "Streets of Rage") series of [beat'em up](https://en.wikipedia.org/wiki/Beat%27em_up "Beat'em up") games.
