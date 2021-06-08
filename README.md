@@ -6,7 +6,7 @@
 
 From humble beginnings, **OpenBOR Engine** has since grown into the most versatile, easy to use, and powerful engine of its type you will find anywhere. **OpenBOR** is optimized for side scrolling beat em’ up style games ([Double Dragon](https://en.wikipedia.org/wiki/Double_Dragon), [Streets of Rage](https://en.wikipedia.org/wiki/Streets_of_Rage), [Final Fight](https://en.wikipedia.org/wiki/Final_Fight)...), but easily accommodates any sort of gameplay style and feature set you can imagine.
 
-**This repository contains the last version supporting the Sega Dreamcast platform**. The current version of the **OpenBOR Engine** is available [here](https://github.com/DCurrent/openbor).
+**This repository contains the last version supporting the Sega Dreamcast platform**. The current version of the **OpenBOR Engine** is available [here](https://github.com/ianmicheal/Dream-beats-of-rage-DREAMBOR-.git).
 
 ## Introduction
 
